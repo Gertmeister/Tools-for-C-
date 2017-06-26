@@ -10,6 +10,7 @@ namespace Tools_for_CSharp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
